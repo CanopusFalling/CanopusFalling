@@ -11,7 +11,7 @@ I'm currently studying at **The University of Sheffield** and constantly have a 
 This is the one I'm currently the most proud of, currently the repository is private while we get properly set up but you can check out the [site](http://theecoguard.co.uk/) to learn more about that project.
 ### TCTCNF
 Secret project that I may or may not release depending on if it turns out to be viable with the current tools at my disposal. (ETA: At least a few months, probably more knowing me.)
-### [Personal Website](https://github.com/SamTheDude/sam-antics)
+### [Personal Website](https://samthedude.github.io/)
 I really need to make myself a proper website and just host it on github this time, the current one is a mess of whatever I thought was an interesting thing to do back in January of last year. Hosted the last one with my free Azure credits as well, good fun to play with a back end server but still cost $100 a year if I was paying myself so I shall not be doing that nonsense. If you want to see that site [here](https://github.com/SamTheDude/sam-antics) is the repository. (ETA: Probably a month, placements have already started so if I don't start soon that'll be a yikes.)
 ### COM1001 Team Project
 Currently in the process of getting approval from all the team members and the uni to release that project out here in the public, it's currently a hidden repo so I can tidy it up in the meantime.
