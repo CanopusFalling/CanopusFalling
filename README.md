@@ -1,5 +1,9 @@
 ## Hello!
 
+<!--
+Potential to add image to the profile as a banner...
+![Samuel Kent]()-->
+
 I'm currently studying at **The University of Sheffield** and constantly have a project or two in the works. If you have any cool ideas that you need any help with feel free to drop me a message. (Even if you don't need help I still love hearing about cool ideas.)
 
 ## Current Projects
