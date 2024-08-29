@@ -1,13 +1,11 @@
 # Hello 👋
 
-I'm Sammy! I'm a disabled, queer computer science student at The University of Sheffield.
+I'm Canopy, I'm disabled and queer. This github is essentially a showcase of all the projects I rarely ever finish (that's on the unmedicated ADHD.) Feel free to have a nosey around at them and let me know if you build anything based off my work, I'd love to know if you do.
 
 ## Current Projects
 
-*Not much here as I'm going into 3rd year comp sci and I'm very disabled.*
-
-### [🔗 Queer Calendar Sheffield](https://queer-calendar-sheffield.pages.dev/)
+- [PodTally](https://podtally.com): podcast sync and sharing service because I got annoyed at not being able to share podcast reccommendations and my current listening easily.
 
 ## More Info
 
-[🌐 My Website(WIP)](https://canopusfalling.co.uk) | [📧 Email Me](mailto:kent_sam@outlook.com)
+[🌐 My Website(WIP)](https://canopusfalling.co.uk) | [📧 Email Me](canopy@canopusfalling.co.uk) | [CV](https://cv.canopusfalling.co.uk)
